@@ -1,12 +1,12 @@
 <h3 align="center">
-👋 Привет, я Поленика
+👋 Hi, I'm polenika.
 </h3>
 
 <h2 align="center">
-💻 Я бэкенд разработчик, пишу скрипты преимущественно на php
+💻 I am a backend developer, writing scripts mainly in php
 </h2> 
 
-## 🛠️ Сейчас я работаю над:
-* Клиентской панелью хостинга ApexNodes
-* Anti-DDoS(Anti-Bot) прокси для Minecraft
-* Платёжная система Ascory Payments
+## 🛠️ Right now, I'm working on:
+* ApexNodes hosting client panel
+* Service to protect your Minecraft game server from DDoS and Bot attacks
+* Ascory service for integrating store functions into websites and accepting payments
